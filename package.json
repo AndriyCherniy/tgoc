@@ -1,0 +1,24 @@
+{
+  "name": "tgoc",
+  "version": "0.0.1",
+  "description": "This is a game 'The Glory of Castle'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo Sorry, but no test here!"
+  },
+  "keywords": [
+    "tgoc",
+    "glory",
+    "castle",
+    "the glory of castle"
+  ],
+  "author": "Cesvet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.3",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
